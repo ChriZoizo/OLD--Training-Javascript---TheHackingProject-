@@ -23,9 +23,19 @@ console.log("Liste des connards nées en 70");
 
 console.log("-------------------------------------");
 console.log("Leurs noms et prenoms");
-entrepreneurs.forEach((entrepreneur) => {
+
+var lol = entrepreneurs.filter( entr => entr.year < 1980 && entr.year>1969)
+
+lol.forEach((entrepreneur) => {
+ {
     console.log(entrepreneur.first + " " + entrepreneur.last);
-});
+}});
+
+entrepreneurs.forEach((entrepreneur) => {
+    {
+       console.log(entrepreneur.first + " " + entrepreneur.last);
+   }});
+
 
 console.log("-------------------------------------");
 console.log("l'age des connards");
@@ -49,12 +59,7 @@ entrepreneurs.forEach((entrepreneur) => {
 });
 console.log(sortedEntrepreneurs.sort().join("\n"));
 
-let weeksOfTHPArray = [
-    "Semaine 1 - Introduction au Code",
-    "Semaine 2 - Découverte de Ruby",
-    "Semaine 3 - Programmation Orientée Objet",
-    "Semaine 4 - Initiation à Rails",
-];
+
 
 console.log("**********Parcourons le array en forEach :");
 weeksOfTHPArray.forEach((weekContent) => {
