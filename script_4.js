@@ -20,7 +20,7 @@ const entrepreneurs = [
 ];
 
 console.log("Liste des connards nées en 70");
-e, mais 
+
 console.log("-------------------------------------");
 console.log("Leurs noms et prenoms");
 entrepreneurs.forEach((entrepreneur) => {
