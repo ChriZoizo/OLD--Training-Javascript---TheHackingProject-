@@ -1,3 +1,5 @@
+let number = console.prompt("Quelle nombre veux tu factoriser?")
+
 function factor(number) {
     let prout = number;
     if (number < 0) {
