@@ -25,3 +25,6 @@ In this folder, open the script_X.html file.
 
 ## Master World of champion of univers for my grand ma
 Prout
+
+IMPORTANT  : TOUT TRADUIRE EN ANGLAIS OU EN FRANçAIS? UNIFORMISé! 
+
