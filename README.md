@@ -11,7 +11,7 @@ No need to install
 
 Donwload zip, and unzip it in your folder.
 
-In this folder, open the script_X.html file.
+In this folder, open the script_#.html file.
 
 ## Summary
 
@@ -26,5 +26,5 @@ In this folder, open the script_X.html file.
 ## Master World of champion of univers for my grand ma
 Prout
 
-IMPORTANT  : TOUT TRADUIRE EN ANGLAIS OU EN FRANçAIS? UNIFORMISé! 
+IMPORTANT  : TOUT TRADUIRE EN ANGLAIS OU EN FRANçAIS? UNIFORMISé!  NETTOYER LES TRUCS DEBILES !
 
